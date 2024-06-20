@@ -1,0 +1,6 @@
+populationSize:50
+k(tournamentSelection):3
+Pc(crossover):1.0
+Pm(mutation):0.1
+r(steadyStateSelection):0.5
+numberOfGenerations:200
