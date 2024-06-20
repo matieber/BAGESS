@@ -1,0 +1,304 @@
+1 motorola_moto_g6 56 56
+2 samsung_SM_A305G 69 69
+3 Xiaomi_Mi_A2_Lite 61 61
+4 Xiaomi_Redmi_Note_7 11 11
+
+1 motorola_moto_g6 -1 97
+2 samsung_SM_A305G -1 20
+3 Xiaomi_Mi_A2_Lite -1 66
+4 Xiaomi_Redmi_Note_7 -1 54
+
+1 motorola_moto_g6 -1 97
+2 samsung_SM_A305G -1 20
+3 Xiaomi_Mi_A2_Lite -1 66
+4 Xiaomi_Redmi_Note_7 -1 54
+
+1 motorola_moto_g6 -1 97
+2 samsung_SM_A305G -1 20
+3 Xiaomi_Mi_A2_Lite -1 66
+4 Xiaomi_Redmi_Note_7 -1 54
+
+1 motorola_moto_g6 -1 97
+2 samsung_SM_A305G -1 20
+3 Xiaomi_Mi_A2_Lite -1 66
+4 Xiaomi_Redmi_Note_7 -1 54
+
+1 motorola_moto_g6 -1 97
+2 samsung_SM_A305G -1 20
+3 Xiaomi_Mi_A2_Lite -1 66
+4 Xiaomi_Redmi_Note_7 -1 54
+
+1 motorola_moto_g6 -1 97
+2 samsung_SM_A305G -1 20
+3 Xiaomi_Mi_A2_Lite -1 66
+4 Xiaomi_Redmi_Note_7 -1 54
+
+1 motorola_moto_g6 -1 45
+2 samsung_SM_A305G -1 17
+3 Xiaomi_Mi_A2_Lite -1 49
+4 Xiaomi_Redmi_Note_7 -1 1
+
+1 motorola_moto_g6 -1 45
+2 samsung_SM_A305G -1 17
+3 Xiaomi_Mi_A2_Lite -1 49
+4 Xiaomi_Redmi_Note_7 -1 1
+
+1 motorola_moto_g6 -1 45
+2 samsung_SM_A305G -1 17
+3 Xiaomi_Mi_A2_Lite -1 49
+4 Xiaomi_Redmi_Note_7 -1 1
+
+1 motorola_moto_g6 -1 45
+2 samsung_SM_A305G -1 17
+3 Xiaomi_Mi_A2_Lite -1 49
+4 Xiaomi_Redmi_Note_7 -1 1
+
+1 motorola_moto_g6 -1 45
+2 samsung_SM_A305G -1 17
+3 Xiaomi_Mi_A2_Lite -1 49
+4 Xiaomi_Redmi_Note_7 -1 1
+
+1 motorola_moto_g6 -1 45
+2 samsung_SM_A305G -1 17
+3 Xiaomi_Mi_A2_Lite -1 49
+4 Xiaomi_Redmi_Note_7 -1 1
+
+1 motorola_moto_g6 -1 90
+2 samsung_SM_A305G -1 15
+3 Xiaomi_Mi_A2_Lite -1 43
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 90
+2 samsung_SM_A305G -1 15
+3 Xiaomi_Mi_A2_Lite -1 43
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 90
+2 samsung_SM_A305G -1 15
+3 Xiaomi_Mi_A2_Lite -1 43
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 90
+2 samsung_SM_A305G -1 15
+3 Xiaomi_Mi_A2_Lite -1 43
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 90
+2 samsung_SM_A305G -1 15
+3 Xiaomi_Mi_A2_Lite -1 43
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 90
+2 samsung_SM_A305G -1 15
+3 Xiaomi_Mi_A2_Lite -1 43
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 99
+3 Xiaomi_Mi_A2_Lite -1 9
+4 Xiaomi_Redmi_Note_7 -1 77
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 99
+3 Xiaomi_Mi_A2_Lite -1 9
+4 Xiaomi_Redmi_Note_7 -1 77
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 99
+3 Xiaomi_Mi_A2_Lite -1 9
+4 Xiaomi_Redmi_Note_7 -1 77
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 99
+3 Xiaomi_Mi_A2_Lite -1 9
+4 Xiaomi_Redmi_Note_7 -1 77
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 99
+3 Xiaomi_Mi_A2_Lite -1 9
+4 Xiaomi_Redmi_Note_7 -1 77
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 99
+3 Xiaomi_Mi_A2_Lite -1 9
+4 Xiaomi_Redmi_Note_7 -1 77
+
+1 motorola_moto_g6 -1 27
+2 samsung_SM_A305G -1 81
+3 Xiaomi_Mi_A2_Lite -1 26
+4 Xiaomi_Redmi_Note_7 -1 70
+
+1 motorola_moto_g6 -1 27
+2 samsung_SM_A305G -1 81
+3 Xiaomi_Mi_A2_Lite -1 26
+4 Xiaomi_Redmi_Note_7 -1 70
+
+1 motorola_moto_g6 -1 27
+2 samsung_SM_A305G -1 81
+3 Xiaomi_Mi_A2_Lite -1 26
+4 Xiaomi_Redmi_Note_7 -1 70
+
+1 motorola_moto_g6 -1 27
+2 samsung_SM_A305G -1 81
+3 Xiaomi_Mi_A2_Lite -1 26
+4 Xiaomi_Redmi_Note_7 -1 70
+
+1 motorola_moto_g6 -1 27
+2 samsung_SM_A305G -1 81
+3 Xiaomi_Mi_A2_Lite -1 26
+4 Xiaomi_Redmi_Note_7 -1 70
+
+1 motorola_moto_g6 -1 27
+2 samsung_SM_A305G -1 81
+3 Xiaomi_Mi_A2_Lite -1 26
+4 Xiaomi_Redmi_Note_7 -1 70
+
+1 motorola_moto_g6 -1 70
+2 samsung_SM_A305G -1 94
+3 Xiaomi_Mi_A2_Lite -1 97
+4 Xiaomi_Redmi_Note_7 -1 25
+
+1 motorola_moto_g6 -1 70
+2 samsung_SM_A305G -1 94
+3 Xiaomi_Mi_A2_Lite -1 97
+4 Xiaomi_Redmi_Note_7 -1 25
+
+1 motorola_moto_g6 -1 70
+2 samsung_SM_A305G -1 94
+3 Xiaomi_Mi_A2_Lite -1 97
+4 Xiaomi_Redmi_Note_7 -1 25
+
+1 motorola_moto_g6 -1 70
+2 samsung_SM_A305G -1 94
+3 Xiaomi_Mi_A2_Lite -1 97
+4 Xiaomi_Redmi_Note_7 -1 25
+
+1 motorola_moto_g6 -1 70
+2 samsung_SM_A305G -1 94
+3 Xiaomi_Mi_A2_Lite -1 97
+4 Xiaomi_Redmi_Note_7 -1 25
+
+1 motorola_moto_g6 -1 70
+2 samsung_SM_A305G -1 94
+3 Xiaomi_Mi_A2_Lite -1 97
+4 Xiaomi_Redmi_Note_7 -1 25
+
+1 motorola_moto_g6 -1 82
+2 samsung_SM_A305G -1 25
+3 Xiaomi_Mi_A2_Lite -1 7
+4 Xiaomi_Redmi_Note_7 -1 18
+
+1 motorola_moto_g6 -1 82
+2 samsung_SM_A305G -1 25
+3 Xiaomi_Mi_A2_Lite -1 7
+4 Xiaomi_Redmi_Note_7 -1 18
+
+1 motorola_moto_g6 -1 82
+2 samsung_SM_A305G -1 25
+3 Xiaomi_Mi_A2_Lite -1 7
+4 Xiaomi_Redmi_Note_7 -1 18
+
+1 motorola_moto_g6 -1 82
+2 samsung_SM_A305G -1 25
+3 Xiaomi_Mi_A2_Lite -1 7
+4 Xiaomi_Redmi_Note_7 -1 18
+
+1 motorola_moto_g6 -1 82
+2 samsung_SM_A305G -1 25
+3 Xiaomi_Mi_A2_Lite -1 7
+4 Xiaomi_Redmi_Note_7 -1 18
+
+1 motorola_moto_g6 -1 82
+2 samsung_SM_A305G -1 25
+3 Xiaomi_Mi_A2_Lite -1 7
+4 Xiaomi_Redmi_Note_7 -1 18
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 54
+3 Xiaomi_Mi_A2_Lite -1 60
+4 Xiaomi_Redmi_Note_7 -1 38
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 54
+3 Xiaomi_Mi_A2_Lite -1 60
+4 Xiaomi_Redmi_Note_7 -1 38
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 54
+3 Xiaomi_Mi_A2_Lite -1 60
+4 Xiaomi_Redmi_Note_7 -1 38
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 54
+3 Xiaomi_Mi_A2_Lite -1 60
+4 Xiaomi_Redmi_Note_7 -1 38
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 54
+3 Xiaomi_Mi_A2_Lite -1 60
+4 Xiaomi_Redmi_Note_7 -1 38
+
+1 motorola_moto_g6 -1 54
+2 samsung_SM_A305G -1 54
+3 Xiaomi_Mi_A2_Lite -1 60
+4 Xiaomi_Redmi_Note_7 -1 38
+
+1 motorola_moto_g6 -1 41
+2 samsung_SM_A305G -1 96
+3 Xiaomi_Mi_A2_Lite -1 18
+4 Xiaomi_Redmi_Note_7 -1 90
+
+1 motorola_moto_g6 -1 41
+2 samsung_SM_A305G -1 96
+3 Xiaomi_Mi_A2_Lite -1 18
+4 Xiaomi_Redmi_Note_7 -1 90
+
+1 motorola_moto_g6 -1 41
+2 samsung_SM_A305G -1 96
+3 Xiaomi_Mi_A2_Lite -1 18
+4 Xiaomi_Redmi_Note_7 -1 90
+
+1 motorola_moto_g6 -1 41
+2 samsung_SM_A305G -1 96
+3 Xiaomi_Mi_A2_Lite -1 18
+4 Xiaomi_Redmi_Note_7 -1 90
+
+1 motorola_moto_g6 -1 41
+2 samsung_SM_A305G -1 96
+3 Xiaomi_Mi_A2_Lite -1 18
+4 Xiaomi_Redmi_Note_7 -1 90
+
+1 motorola_moto_g6 -1 41
+2 samsung_SM_A305G -1 96
+3 Xiaomi_Mi_A2_Lite -1 18
+4 Xiaomi_Redmi_Note_7 -1 90
+
+1 motorola_moto_g6 -1 9
+2 samsung_SM_A305G -1 55
+3 Xiaomi_Mi_A2_Lite -1 59
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 9
+2 samsung_SM_A305G -1 55
+3 Xiaomi_Mi_A2_Lite -1 59
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 9
+2 samsung_SM_A305G -1 55
+3 Xiaomi_Mi_A2_Lite -1 59
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 9
+2 samsung_SM_A305G -1 55
+3 Xiaomi_Mi_A2_Lite -1 59
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 9
+2 samsung_SM_A305G -1 55
+3 Xiaomi_Mi_A2_Lite -1 59
+4 Xiaomi_Redmi_Note_7 -1 14
+
+1 motorola_moto_g6 -1 9
+2 samsung_SM_A305G -1 55
+3 Xiaomi_Mi_A2_Lite -1 59
+4 Xiaomi_Redmi_Note_7 -1 14
